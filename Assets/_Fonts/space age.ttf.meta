@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b350fd36ffd0b1041a97488d1869a2db
+timeCreated: 1483382021
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Age
+  fontNames:
+  - Space Age
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
